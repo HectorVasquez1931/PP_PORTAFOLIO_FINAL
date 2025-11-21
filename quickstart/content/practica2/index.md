@@ -1,6 +1,6 @@
 +++
 date = '2025-11-20T23:41:22-08:00'
-draft = true
+draft = false
 title = 'Practica 2: Programacion Orientada a Objetos'
 +++
 

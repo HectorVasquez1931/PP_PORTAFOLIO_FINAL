@@ -1,6 +1,6 @@
 +++
 date = '2025-11-20T23:45:32-08:00'
-draft = true
+draft = false
 title = 'Practica 3: Haskell'
 +++
 

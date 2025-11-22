@@ -4,8 +4,6 @@ draft = false
 title = 'Practica 2: Programacion Orientada a Objetos'
 +++
 
-## Práctica 2: Programación Orientada a Objetos
-
 **Nombre:** Hector Vasquez  
 **Matricula:** 378827  
 **Materia:** Paradigmas de la programacion  

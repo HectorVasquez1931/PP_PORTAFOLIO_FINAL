@@ -4,8 +4,6 @@ draft = false
 title = 'Practica 3: Haskell'
 +++
 
-## ***Práctica 3: Haskell***
-
 **Alumno:** Hector Alfredo Vasquez Carpio  
 **Profesor:** Carlos Gallegos  
 **Fecha:** 07/11/2025  

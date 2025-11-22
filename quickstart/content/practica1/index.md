@@ -4,9 +4,6 @@ draft = false
 title = 'Practica 1: Elementos basicos de los lenguajes de programacion'
 +++
 
-
-## Práctica 1: Elementos básicos de los lenguajes de programación
-
 **Alumno:** Hector Alfredo Vasquez Carpio  
 **Profesor:** Carlos Gallegos  
 **Fecha:** 26/09/2025  

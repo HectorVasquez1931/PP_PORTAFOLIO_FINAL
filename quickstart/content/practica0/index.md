@@ -4,8 +4,6 @@ draft = false
 title = 'Practica 0: Manejo de repositorios'
 +++
 
-## Práctica 0: Uso de Repositorios  
-
 **Alumno:** Hector Alfredo Vasquez Carpio  
 **Profesor:** Carlos Gallegos  
 **Fecha:** 10/09/2025  
